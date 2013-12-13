@@ -1,8 +1,8 @@
 {
-    "name": "gorg/phpcas",
+    "name": "dwoodard/phpcas",
     "type": "php-lib",
     "description": "An library for use CAS Authentication",
-    "keywords": ["gorg", "cas", "jasig"],
+    "keywords": ["dwoodard", "cas", "jasig"],
     "license": "GPL",
     "authors": [
         {
